@@ -2,7 +2,7 @@
 
 
 
-- 🌱 I’m currently learning python and java
+- 🌱 I’m currently learning python and sql
 - 📫 How to reach me: dev.hannover@gmail.com
 
 
